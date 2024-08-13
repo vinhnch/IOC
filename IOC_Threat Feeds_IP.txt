@@ -20052,3 +20052,9 @@ scholarsearch.net
 updatesoft1.oss-ap-southeast-1.aliyuncs.com
 http://62.234.31.47
 62.234.31.47:443
+cdn-server-1[.]xiren77418[.]workers[.]dev
+cdn-server-2[.]wesoc40288[.]workers[.]dev
+Angryipo[.]org
+Angryipsca[.]com
+ec2-3-145-180-193.us-east-2.compute[.]amazonaws[.]com
+ec2-3-145-172-86.us-east-2.compute[.]amazonaws[.]com
