@@ -24534,3 +24534,12 @@ peanuts[.]guru
 113.125.92[.]32	
 218.65.110[.]180	
 20.60.250[.]230
+krislab[.]site
+msn-microsoft[.]org
+s2cloud-amazon[.]com
+s3bucket-azure[.]online
+s3cloud-azure[.]com
+s3-microsoft[.]com
+trendmicrotech[.]com
+visualstudio-microsoft[.]com
+xtools[.]lol
