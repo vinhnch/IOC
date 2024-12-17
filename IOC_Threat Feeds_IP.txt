@@ -27738,4 +27738,15 @@ store[.]turnovercheck[.]com
 http://185[.]125[.]33[.]163
 http://118[.]89[.]135[.]58
 118[.]89[.]135[.]58:443
-
+http://172[.]104.133.212:8880/new_analytics
+http://172[.]104.133.212:8880/opened
+http://172[.]104.133.212:8880/metrics
+http://172[.]104.133.212:8880/sede
+139[.]162[.]179.170:8080
+deliverynetwork[.]observer/qfast/UpdateMC.zip
+deliverynetwork[.]observer/qfast/AdditionalFilesForMeet.zip
+www[.]meeten.us
+www[.]meetio.one
+www[.]meetone.gg
+www[.]clusee.com
+199[.]247.4.86
