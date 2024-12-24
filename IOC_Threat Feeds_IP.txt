@@ -27750,3 +27750,12 @@ www[.]meetio.one
 www[.]meetone.gg
 www[.]clusee.com
 199[.]247.4.86
+156[.]251.163[.]120
+172[.]247[.]127[.]210
+cc[.]thinkphp1[.]com
+v6[.]thinkphp1[.]com
+v20[.]thinkphp1[.]com
+udp://jklwang[.]com
+udp://{v6|v20}[.] thinkphp1[.]com
+http://{v6|v20}[.]thinkphp1[.]com
+http://v6[.]thinkphp1[.]com/client/bt
