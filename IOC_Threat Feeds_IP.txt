@@ -29190,3 +29190,7 @@ cyberhavenext[.]pro
 api.cyberhaven[.]pro
 149.28.124[.]84
 149.248.2[.]16
+https://s-usc1b-nss-2100[.]firebaseio[.]com/.ws?ns=androidscamru-default-rtdb&v=5&ls=*
+https[:]//androidscamru-default-rtdb[.]firebaseio[.]com
+https[:]//rustore-apk[.]github[.]io/telegram_premium
+s-usc1b-nss-2100[.]firebaseio[.]com
