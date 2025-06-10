@@ -35239,3 +35239,8 @@ winrarss[.]online
 res[.]winrarss[.]online
 http://175[.]178[.]97[.]199
 175[.]178[.]97[.]199:8911
+185.208.159[.]155
+http[:]//185[.]208[.]159[.]155:8000/application-ref.jar
+https[:]//gh-proxy[.]com/https[:]//github[.]com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
+https[:]//gh-proxy[.]com/https[:]//github[.]com/trexminer/T-Rex/releases/download/0.26.8/t-rex-0.26.8-linux.tar.gz
+https[:]//canary[.]discord[.]com/api/webhooks/1357293459207356527/GRsqv7AQyemZRuPB1ysrPUstczqL4OIi-I7RibSQtGS849zY64H7W_-c5UYYtrDBzXiq
