@@ -39490,3 +39490,12 @@ worker1800[.]workers[.]dev
 yfful[.]com
 you-never-walk-alone009friend[.]workers[.]dev
 zeezee196112[.]workers[.]dev
+185.147.124.54
+218.92.0.252
+45.144.225.49
+185.225.73.252
+62.204.41.67
+62.133.60.137
+torproject.org
+mega.nz
+api.anotherdomain[.]xyz
