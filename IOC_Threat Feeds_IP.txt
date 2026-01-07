@@ -45172,3 +45172,5 @@ https://github[.]com/rootreapers/CVE-2025-11499
 https://github[.]com/lagerhaker539/CVE-2025-12595-POC
 http://ezc5510min[.]temp[.]swtest[.]ru
 http://shopsleta[.]ru
+avocadomechanism[.]com
+potherbreference[.]com
