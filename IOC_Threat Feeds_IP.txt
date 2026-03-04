@@ -47200,3 +47200,6 @@ q74vn[.]live
 servgate[.]me
 zamstats[.]me
 zrheblirsy[.]me
+212[.]11.64.250
+185[.]196.11.225
+xmr-sg.kryptex.network
