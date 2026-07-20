@@ -50825,3 +50825,16 @@ photo-26654[.]cfd
 photo-132454[.]cfd
 zloapobikahy23[.]bond
 higoksbupwou[.]com
+162.220.232.0/24
+162.220.234.0/24
+89.150.45.0/24
+185.81.113.0/24162.220.232.0/24
+162.220.234.0/24
+89.150.45.0/24
+185.81.113.0/24
+dashboard-bl.pamconj[.]com
+spx.pamconj[.]com
+clear90489058903-document.workers[.]dev
+graph-microsoft[.]com
+portal-azure[.]com
+office365-login[.]com
