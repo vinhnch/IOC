@@ -50838,3 +50838,7 @@ clear90489058903-document.workers[.]dev
 graph-microsoft[.]com
 portal-azure[.]com
 office365-login[.]com
+185.141.216[.]194
+hxxps://calendly[.]com/d/dvnf-pts-7sz
+hxxps://computer.kplus[.]com/cd.zip
+hxxps://beta.padmin[.]com/mybenefits/Templates/cd.zip
